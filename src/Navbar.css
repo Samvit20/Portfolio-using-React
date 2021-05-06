@@ -1,0 +1,9 @@
+.navbar{
+    display: flex;
+    align-items: center;
+}
+
+.navbar>h1{
+    font-weight: 400;
+    font-size: 28px;
+}
